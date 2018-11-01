@@ -1,3 +1,5 @@
+package qadriii;
+
 
 public class classmainstackstring {
 
@@ -6,10 +8,14 @@ public class classmainstackstring {
 		classstackstring st= new classstackstring();
 		
 		
-		st.push("qadri");st.push("fandhy");
+		st.push("qadrii");
+		st.push("fandhy");
 		st.push("ucup");
 		st.push("masdar");
-		st.push("diank");
+		st.push("mufli");
+		
+		
+		st.push("anmar");
 		
 		String d0=st.pop();
 		System.out.println(d0);
